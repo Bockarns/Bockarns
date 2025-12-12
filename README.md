@@ -2,7 +2,17 @@
 
 My name is Jerome, I'm studying at Tuc Sweden HVE to become a Webdeveloper.
 <br>
-🌱 I’m currently learning HTML and CSS with agile workmethods.
+🌱 I’m currently learning JavaScript 1!
+<br>
+<br>
+<br>
+Finished courses:
+<br>
+Communication
+<br>
+HTML and CSS with agile workmethods.
+<br>
+basic programming in C#
 <!--
 **Bockarns/Bockarns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
