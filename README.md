@@ -21,7 +21,7 @@ I enjoy building full-stack web applications and I'm currently focused on backen
 
 ## 🚀 What I'm working on
 
-- 🏌️ **Golf Club Web Shop** — A group project built with ASP.NET Core MVC, Entity Framework Core, and ASP.NET Identity. Features include a full product catalog, shopping cart, user authentication, and an admin panel with role-based access control. Managed with Jira and GitHub.
+- 🏌️ **Golf Club Web Shop**: A group project built with ASP.NET Core MVC, Entity Framework Core, and ASP.NET Identity. Features include a full product catalog, shopping cart, user authentication, and an admin panel with role-based access control. Managed with Jira and GitHub.
 
 ---
 
