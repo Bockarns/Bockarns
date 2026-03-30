@@ -1,6 +1,6 @@
 # Hi there, I'm Jerome 👋
 
-I'm a web development student at **TUC Sweden HVE**, based in Stockholm 🇸🇪.  
+I'm a web development student at **TUC Sweden HVE**.  
 I enjoy building full-stack web applications and I'm currently focused on backend development with C# and ASP.NET Core.
 
 ---
