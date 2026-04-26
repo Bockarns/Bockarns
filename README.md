@@ -36,9 +36,9 @@ TUC Sweden HVE | 2025 – 2027
 | ✅ | HTML & CSS with Agile Methods | Sep – Oct 2025 |
 | ✅ | Basic Programming in C# | Nov – Dec 2025 |
 | ✅ | JavaScript 1 | Dec 2025 |
-| 🔄 | Advanced Programming in C# | Jan – Apr 2026 |
-| 🔜 | Design & UX | Apr 2026 |
-| 🔜 | Publishing Tools (CMS) | TBD |
+| ✅ | Advanced Programming in C# | Jan – Apr 2026 |
+| 🔄 | Design & UX | Apr - May 2026 |
+| 🔜 | Publishing Tools (CMS) | May 2026 |
 | 🔜 | JavaScript 2 | TBD |
 | 🔜 | LIA 1 – Internship | TBD |
 | 🔜 | LIA 2 – Internship | TBD |
