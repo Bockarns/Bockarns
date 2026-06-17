@@ -21,8 +21,15 @@ I enjoy building full-stack web applications and I'm currently focused on backen
 
 ## 🚀 What I'm working on
 
-- 🏌️ **MaSu Studios**: A Umbraco project for a fictional Artist to act as a exhibition for their work and also a webshop to sell reprints of their work..
 
+
+---
+## ✅ Recently finished projects
+
+These projects will be avaliable here on GitHub soon.
+
+- 🖌️ **MaSu Studios**: A Umbraco project for a fictional Artist to act as a exhibition for their work and also a webshop to sell reprints of their work..
+- 🏌️ **Golf Club Web Shop**: A group project built with ASP.NET Core MVC, Entity Framework Core, and ASP.NET Identity. Features include a full product catalog, shopping cart, user authentication, and an admin panel with role-based access control. Managed with Jira and GitHub.
 ---
 
 ## 📚 Education
@@ -38,7 +45,7 @@ TUC Sweden HVE | 2025 – 2027
 | ✅ | JavaScript 1 | Dec 2025 |
 | ✅ | Advanced Programming in C# | Jan – Apr 2026 |
 | ✅ | Design & UX | Apr - May 2026 |
-| 🔄 | Publishing Tools (CMS) | May - June 2026 |
+| ✅ | Publishing Tools (CMS) | May - June 2026 |
 | 🔜 | JavaScript 2 | August 2026 |
 | 🔜 | LIA 1 – Internship | TBD |
 | 🔜 | LIA 2 – Internship | TBD |
