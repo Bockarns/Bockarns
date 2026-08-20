@@ -46,8 +46,8 @@ TUC Sweden HVE | 2025 – 2027
 | ✅ | Advanced Programming in C# | Jan – Apr 2026 |
 | ✅ | Design & UX | Apr - May 2026 |
 | ✅ | Publishing Tools (CMS) | May - June 2026 |
-| 🔜 | JavaScript 2 | August 2026 |
-| 🔜 | LIA 1 – Internship | TBD |
+| 🔜 | JavaScript 2 | August - September 2026 |
+| 🔜 | LIA 1 – Internship | September 2026 |
 | 🔜 | LIA 2 – Internship | TBD |
 | 🔜 | Degree Project | TBD |
 
