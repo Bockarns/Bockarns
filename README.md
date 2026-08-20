@@ -21,7 +21,9 @@ I enjoy building full-stack web applications and I'm currently focused on backen
 
 ## 🚀 What I'm working on
 
-
+* Building full-stack web applications and REST APIs with **TypeScript, React, Angular, and Node.js**.
+* Developing 4 hands-on lab projects focused on backend architecture and frontend frameworks.
+* Designing and implementing a comprehensive individual project.
 
 ---
 ## ✅ Recently finished projects
