@@ -29,7 +29,7 @@ I enjoy building full-stack web applications and I'm currently focused on backen
 ## ✅ Recently finished projects
 
 These projects will be avaliable here on GitHub soon.
-
+* 🛒 **[InfoFynd](http://infofynd-app-47178.azurewebsites.net/):** A fullstack web application built with React (Vite) and Express (Node.js), featuring a SQLite database, JWT authentication, role-based admin panel, and CRUD operations for consumer tips and member offers. Deployed to Azure App Service.
 - 🖌️ **MaSu Studios**: A Umbraco project for a fictional Artist to act as a exhibition for their work and also a webshop to sell reprints of their work..
 - 🏌️ **Golf Club Web Shop**: A group project built with ASP.NET Core MVC, Entity Framework Core, and ASP.NET Identity. Features include a full product catalog, shopping cart, user authentication, and an admin panel with role-based access control. Managed with Jira and GitHub.
 ---
