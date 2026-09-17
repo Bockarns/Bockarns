@@ -54,8 +54,8 @@ TUC Sweden HVE | 2025 – 2027
 | ✅ | Design & UX | Apr - May 2026 |
 | ✅ | Publishing Tools (CMS) | May - June 2026 |
 | ✅ | JavaScript 2 | August - September 2026 |
-| 🔄 | LIA 1 – Internship @ [Digilog](https://www.digilog.se/) | September 2026 |
-| 🔜 | LIA 2 – Internship | TBD |
+| 🔄 | LIA 1 – Internship @ [Digilog](https://www.digilog.se/) | September - November 2026 |
+| 🔜 | LIA 2 – Internship | November 2026 |
 | 🔜 | Degree Project | TBD |
 
 ---
