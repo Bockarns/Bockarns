@@ -3,6 +3,8 @@
 I'm a web development student at **TUC Sweden HVE**.  
 I enjoy building full-stack web applications and I'm currently focused on backend development with C# and ASP.NET Core.
 
+[Portfolio](https://bockarns.github.io/JGBPortfolio/)
+
 ---
 
 ## 🛠️ Technologies & Tools
