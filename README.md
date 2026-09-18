@@ -28,17 +28,16 @@ I enjoy building full-stack web applications with C# using ASP.NET Core and with
 
 ## 🚀 What I'm working on
 
-* Building full-stack web applications and REST APIs with **TypeScript, React, Angular, and Node.js**.
-* Developing 4 hands-on lab projects focused on backend architecture and frontend frameworks.
-* Designing and implementing a comprehensive individual project.
+I'm about to start my internship. more information will be available soon.
 
 ---
 ## ✅ Recently finished projects
 
-These projects will be avaliable here on GitHub soon.
-* 🛒 **[InfoFynd](http://infofynd-app-47178.azurewebsites.net/):** A fullstack web application built with React (Vite) and Express (Node.js), featuring a SQLite database, JWT authentication, role-based admin panel, and CRUD operations for consumer tips and member offers. Deployed to Azure App Service.
-- 🖌️ **MaSu Studios**: A Umbraco project for a fictional Artist to act as a exhibition for their work and also a webshop to sell reprints of their work..
-- 🏌️ **Golf Club Web Shop**: A group project built with ASP.NET Core MVC, Entity Framework Core, and ASP.NET Identity. Features include a full product catalog, shopping cart, user authentication, and an admin panel with role-based access control. Managed with Jira and GitHub.
+These are the most recent project I've finished. These are from three separate courses in my education. 
+
+* 🛒 **[InfoFynd](http://infofynd-app-47178.azurewebsites.net/):** A fullstack web application built with React (Vite) and Express (Node.js), featuring a SQLite database, JWT authentication, role-based admin panel, and CRUD operations for consumer tips and member offers. Deployed to Azure App Service. **JavaScript 2**
+- 🖌️ **MaSu Studios**: A Umbraco project for a fictional Artist to act as a exhibition for their work and also a webshop to sell reprints of their work.. **CMS**
+- 🏌️ **Golf Club Web Shop**: A group project built with ASP.NET Core MVC, Entity Framework Core, and ASP.NET Identity. Features include a full product catalog, shopping cart, user authentication, and an admin panel with role-based access control. Managed with Jira and GitHub. **Advanced programming in C#**
 ---
 
 ## 📚 Education
@@ -66,4 +65,3 @@ TUC Sweden HVE | 2025 – 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerome-gordon-bock)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://bockarns.github.io/JGBPortfolio/)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/Bockarn)
