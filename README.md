@@ -1,7 +1,7 @@
 # Hi there, I'm Jerome 👋
 
 I'm a web development student at **TUC Sweden HVE**.  
-I enjoy building full-stack web applications with both C# and with Node.js.
+I enjoy building full-stack web applications with C# using ASP.NET Core and with React/Vite using Node.js.
 
 [Portfolio](https://bockarns.github.io/JGBPortfolio/)
 
